@@ -1,2 +1,3 @@
-# prepcourse-henri
-repositorio de prepcourse de henry
+este proyecto es una prueba del prepcourse de henry de como crear un repositorio desde githud
+
+
